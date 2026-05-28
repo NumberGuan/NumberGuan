@@ -5,8 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomás-ortellado-799547255/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NumberGuan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://mercadito-app-seven.vercel.app)
-[![Location](https://img.shields.io/badge/Trenque%20Lauquen%2C%20Argentina-74B9FF?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
