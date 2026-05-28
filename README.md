@@ -103,7 +103,8 @@ Soy un estudiante de **Ingeniería en Sistemas** con fuerte orientación al desa
 ## 📊 GitHub Stats
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=NumberGuan&theme=highcontrast&hide_border=true&border_radius=30&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <img src="https://raw.githubusercontent.com/NumberGuan/NumberGuan/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/NumberGuan/NumberGuan/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ---
