@@ -1,7 +1,7 @@
 <div align="center">
 
-# Tomás Ortellado
-### Full Stack Developer Junior· Estudiante de Ingeniería en Sistemas
+# Tomas Ortellado
+### Full Stack Developer Junior · Estudiante de Ingenieria en Sistemas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomás-ortellado-799547255/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NumberGuan)
@@ -10,14 +10,13 @@
 
 ---
 
-## Sobre mí:
+## Sobre mi
 
-Soy un estudiante de **Ingeniería en Sistemas** con fuerte orientación al desarrollo web full stack. Me especializo en construir aplicaciones de principio a fin: desde el diseño de la base de datos y las APIs, hasta interfaces dinámicas y de alto rendimiento. Cada proyecto que subo aquí es una demostración real de mis habilidades técnicas y mi forma de resolver problemas concretos.
-
+Soy un estudiante de **Ingenieria en Sistemas** con fuerte orientacion al desarrollo web full stack. Me especializo en construir aplicaciones de principio a fin: desde el diseno de la base de datos y las APIs, hasta interfaces dinamicas y de alto rendimiento. Cada proyecto que subo aqui es una demostracion real de mis habilidades tecnicas y mi forma de resolver problemas concretos.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnologico
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -41,12 +40,29 @@ Soy un estudiante de **Ingeniería en Sistemas** con fuerte orientación al desa
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+### Herramientas de Escritorio & Scripts
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract_OCR-5C5C5C?style=flat-square&logo=google&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white)
+
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
+
+### [Extractor OCR](https://github.com/NumberGuan/extractor-ocr)
+> Herramienta de escritorio para Windows que extrae texto de imagenes, PDFs, documentos Word y archivos de texto usando reconocimiento optico de caracteres, y guarda los resultados como archivos Markdown o texto plano.
+
+Soporta PDFs con texto digital, PDFs escaneados, imagenes (PNG, JPG, BMP, TIFF), documentos `.docx` con tablas e imagenes embebidas, y archivos `.txt`. La interfaz grafica en espanol permite procesar multiples archivos en paralelo sin bloquear la aplicacion.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract_OCR-5C5C5C?style=flat-square&logo=google&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-306998?style=flat-square&logo=python&logoColor=white)
+
+---
 
 ### [Mercadito App](https://github.com/NumberGuan/mercadito-app) · [Demo en vivo →](https://mercadito-app-seven.vercel.app)
-> Plataforma de marketplace local estilo Facebook Marketplace, desarrollada íntegramente desde cero.
+> Plataforma de marketplace local estilo Facebook Marketplace, desarrollada integramente desde cero.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -56,7 +72,7 @@ Soy un estudiante de **Ingeniería en Sistemas** con fuerte orientación al desa
 ---
 
 ### Remisito *(En desarrollo — privado)*
-> Plataforma web PWA de gestión y despacho de viajes de remis en tiempo real.
+> Plataforma web PWA de gestion y despacho de viajes de remis en tiempo real.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -69,8 +85,8 @@ Soy un estudiante de **Ingeniería en Sistemas** con fuerte orientación al desa
 
 ---
 
-### [InmoVisión — Gestión Inmobiliaria + Bot de IA](https://github.com/NumberGuan/Inmobiliaria)
-> Ecosistema digital para administración de propiedades y atención automatizada vía WhatsApp con Google Gemini.
+### [InmoVision — Gestion Inmobiliaria + Bot de IA](https://github.com/NumberGuan/Inmobiliaria)
+> Ecosistema digital para administracion de propiedades y atencion automatizada via WhatsApp con Google Gemini.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -92,7 +108,7 @@ Soy un estudiante de **Ingeniería en Sistemas** con fuerte orientación al desa
 ---
 
 ### [Tributo a Los Redondos](https://github.com/NumberGuan/tributo-redondos) · [Demo en vivo →](https://numberguan.github.io/tributo-redondos/)
-> Sitio web de tributo a Patricio Rey y sus Redonditos de Ricota — la banda más grande de Argentina.
+> Sitio web de tributo a Patricio Rey y sus Redonditos de Ricota — la banda mas grande de Argentina.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -100,9 +116,9 @@ Soy un estudiante de **Ingeniería en Sistemas** con fuerte orientación al desa
 
 ---
 
-##  Contacto
+## Contacto
 
-¿Tenés un proyecto en mente o querés charlar sobre desarrollo?
+Tenes un proyecto en mente o queres charlar sobre desarrollo?
 
 [![LinkedIn](https://img.shields.io/badge/Conectar%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomás-ortellado-799547255/)
 [![GitHub](https://img.shields.io/badge/Ver%20todos%20mis%20repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NumberGuan?tab=repositories)
