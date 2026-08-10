@@ -1,7 +1,7 @@
 <div align="center">
 
 # Tomas Ortellado
-### Full Stack Developer Junior · Estudiante de Ingenieria en Sistemas
+### Full Stack Developer · Estudiante de Ingenieria en Sistemas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomás-ortellado-799547255/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NumberGuan)
