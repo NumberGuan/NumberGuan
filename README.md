@@ -69,8 +69,6 @@ Desarrollo y mantengo un sistema interno para relevamientos eléctricos en plant
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
-También trabajo con TanStack Query, Zustand, Zod, OAuth 2.0, PWA/Workbox, IndexedDB, Cloudinary, pg-boss, ExcelJS, Testing Library y Supertest.
-
 ## Otros proyectos
 
 - **[gemini-subagent](https://github.com/NumberGuan/gemini-subagent)** — skill open source que orquesta tareas de código con un subagente Gemini mediante Antigravity CLI, con revisión del resultado y manejo del flujo desde Claude Code.
@@ -83,9 +81,3 @@ También trabajo con TanStack Query, Zustand, Zod, OAuth 2.0, PWA/Workbox, Index
 - Ingeniería en Sistemas de Información · UTN Facultad Regional Trenque Lauquen · 4.º año
 - Inglés C1
 - Argentina
-
-Si estás buscando un desarrollador que pueda entender el problema, construir el sistema completo y acompañarlo en producción, podemos conversar por [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-ortellado-799547255/).
-
-<div align="center">
-<sub>Software útil, arquitectura clara y responsabilidad sobre lo que llega a producción.</sub>
-</div>
