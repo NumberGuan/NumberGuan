@@ -21,7 +21,7 @@ Construyo productos web de punta a punta: modelo de datos, APIs, interfaces, pro
 
 Soy estudiante de 4.º año de Ingeniería en Sistemas de Información en la UTN FRTL y trabajo desarrollando software full-stack en producción. En los últimos meses concentré mi trabajo en dos productos: una plataforma académica propia y un sistema industrial para trabajo de campo.
 
-Me interesa resolver el recorrido completo de un producto: entender el proceso real, diseñar la arquitectura, implementar frontend y backend, cuidar los datos y dejar una operación desplegable y mantenible. Tengo nivel de inglés C1.
+Me interesa resolver el recorrido completo de un producto: entender el proceso real, diseñar la arquitectura, implementar frontend y backend, cuidar los datos y dejar una operación desplegable y mantenible. Tengo nivel de inglés B2/C1.
 
 ## Trabajo reciente
 
@@ -79,5 +79,5 @@ Desarrollo y mantengo un sistema interno para relevamientos eléctricos en plant
 ## Formación y contacto
 
 - Ingeniería en Sistemas de Información · UTN Facultad Regional Trenque Lauquen · 4.º año
-- Inglés C1
+- Inglés B2/C1
 - Argentina
